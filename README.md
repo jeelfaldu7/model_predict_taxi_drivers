@@ -82,7 +82,7 @@ Sweet Lift Taxi can now deploy the Random Forest model to anticipate demand and 
 
 allocate drivers proactively, thereby improving service efficiency and customer experience.
 
-🙌 Credits
+## 🤝 Credits
 This project was created as part of the TripleTen Data Science program. Special thanks to:
   - TripleTen instructors and peers for ongoing support and feedback.
   - Dataset provided by Sweet Lift Taxi (via simulated project prompt).
