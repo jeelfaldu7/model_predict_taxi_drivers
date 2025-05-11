@@ -69,7 +69,7 @@ Model Performance (RMSE on test set):
 | Linear Regression   | \~80+ (Overfitting) |
 | CatBoost            | \~45.7              |
 | LightGBM            | \~44.5              |
-| **Random Forest**   | **43.87** ✅        |
+| **Random Forest**   | **43.87**           |
 
   - Random Forest was selected as the final model due to its:
       - Lowest RMSE on the test set
