@@ -86,3 +86,6 @@ allocate drivers proactively, thereby improving service efficiency and customer 
 This project was created as part of the TripleTen Data Science program. Special thanks to:
   - TripleTen instructors and peers for ongoing support and feedback.
   - Dataset provided by Sweet Lift Taxi (via simulated project prompt).
+
+## 🛡️ License
+This project is licensed under the MIT License.
